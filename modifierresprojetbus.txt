@@ -1,0 +1,7 @@
+1.place de depart
+2.destination
+3.numero du bus
+4.le jour de reservation
+5.periode de reservation
+6.modification terminee
+

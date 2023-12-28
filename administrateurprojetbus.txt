@@ -1,0 +1,6 @@
+1.voir la liste des bus
+2.ajouter un bus
+3.supprimer un bus
+4.modifier le prix d'un bus
+5.sortir
+
