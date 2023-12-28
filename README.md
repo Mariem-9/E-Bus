@@ -27,4 +27,5 @@ Pour plus des détails  voici ci dessous  les fonction utilisée dans la program
   void modifierres(liste1 l1) :: modifier du reservation du personne X
   void affichagestructbus(liste2 l2) :: affichage du structure bus
   void busdispo(int aux,liste2 l2,liste1 l1) :: affiche si la bus choisi est disponible au non
-	liste1 supprimeres(liste1 l1)
+	liste1 supprimerestete(liste1 l1) ::supprimer une reservation
+        liste supprimercomptete(liste l)::supprimer un compte
