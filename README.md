@@ -1,9 +1,9 @@
 E-Bus est une simple application cmd , écrite en language C, assure la réservation d'un bus pour faire un voyage. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E-Bus est composé de deux espaces:
 1.Espace Administration:
 Ici l'application vous permet de voir et de modifier la liste des bus disponible : ajouter un bus, supprimer un bus en cas du panne et modifier le prix des bus disponible.
-ce espace est même sécurisé par mot de passe (0000) .
+Ce espace est même sécurisé par mot de passe (0000) .
 2.Espace Client:
 Ici notre chère client puisse sign in si il est nouveau ou bien tout simplement log in pour accéder à son compte ou son réservation.
 Il peut soit créér un compte ,voir son compte, modifier son compte ou bien le supprimer.
